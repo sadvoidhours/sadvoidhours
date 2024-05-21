@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sadvoidhours! 👋
 
 <img src="https://media.giphy.com/media/5S3fL3mH5iSGPJZBNR/giphy.gif" width="200" height="200" alt="Header GIF">
 
-I'm a [Your Profession/Role] who loves to code, create, and collaborate.
+I'm a BSIT student who loves to code, create, and collaborate—usually front-end. 
 
 ## 🔧 Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
@@ -13,7 +13,5 @@ I'm a [Your Profession/Role] who loves to code, create, and collaborate.
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
-## 📫 How to reach me:
-- [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://linkedin.com/in/yourhandle)
+
 </div>
