@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sadvoidhours! 👋
 
-<img src="https://media.giphy.com/media/5S3fL3mH5iSGPJZBNR/giphy.gif" width="200" height="200" alt="Header GIF">
+<img src="https://images.fallout.wiki/e/e7/Smile1.gif" width="200" height="200" alt="Header GIF">
 
 I'm a BSIT student who loves to code, create, and collaborate—usually front-end. 
 
