@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-![Header](./your-header-image.gif)
+![Header](https://media.giphy.com/media/5S3fL3mH5iSGPJZBNR/giphy.gif)
 
 I'm a [Your Profession/Role] who loves to code, create, and collaborate.
 
