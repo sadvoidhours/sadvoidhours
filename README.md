@@ -16,7 +16,7 @@ I'm a [Your Profession/Role] who loves to code, create, and collaborate.
 ## 📫 How to reach me:
 - [Twitter](https://twitter.com/yourhandle)
 - [LinkedIn](https://linkedin.com/in/yourhandle)
-<iframe src="https://giphy.com/embed/7zJgqvSbjBH2M" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ocean-waves-7zJgqvSbjBH2M">via GIPHY</a></p>
+<img src="https://giphy.com/embed/7zJgqvSbjBH2M" width="480" height="307" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/stickers/ocean-waves-7zJgqvSbjBH2M">via GIPHY</a></p>
 <img src="./your-footer-image.gif" alt="Footer GIF">
 
 </div>
