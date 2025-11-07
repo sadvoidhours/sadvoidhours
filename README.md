@@ -14,17 +14,33 @@
 
 ## 🐾 About Me
 
-```typescript
-const pompompurin = {
-    name: "void",
-    pronouns: "they/them",
-    location: "Purin Paradise 🍮",
-    favoriteThings: ["coding", "pudding", "naps", "music", "cats"],
-    currentlyLearning: ["React", "TypeScript", "Cloud Technologies"],
-    funFact: "I code better with a purin snack nearby! 🍮",
-    hobbies: ["☁️ Daydreaming", "🎨 Creating", "📚 Learning", "🎵 Vibing to music"]
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 👤 **void**
+**Pronouns:** they/them  
+**Location:** 🍮 Purin Paradise  
+
+**💖 Favorite Things:**  
+`coding` · `pudding` · `naps` · `music` · `cats`
+
+**🌱 Currently Learning:**  
+`React` · `TypeScript` · `Cloud Technologies`
+
+**✨ Fun Fact:**  
+*I code better with a purin snack nearby!* 🍮
+
+**🎨 Hobbies:**  
+☁️ Daydreaming · 🎨 Creating · 📚 Learning · 🎵 Vibing to music
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -73,12 +89,6 @@ const pompompurin = {
 <img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&theme=buefy&title_color=F6D47C&icon_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C&hide_border=false" alt="GitHub Stats" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=compact&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C&hide_border=false" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadvoidhours&theme=buefy&ring=F6D47C&fire=F6D47C&currStreakLabel=8B7355&background=FFF8E7&border=F6D47C&stroke=F6D47C&currStreakNum=8B7355&sideNums=8B7355&sideLabels=8B7355&dates=8B7355" alt="GitHub Streak" />
 
 </div>
 
@@ -177,11 +187,11 @@ graph LR
 
 ---
 
-## 📈 Visitor Count
+## 📈 Profile Views
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/sadvoidhours/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&color=F6D47C&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### Thanks for stopping by! Have a purin-tastic day! 🍮✨
 
