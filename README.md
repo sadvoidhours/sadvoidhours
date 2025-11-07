@@ -103,7 +103,9 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=flat&no-frame=true&no-bg=true&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=oldie&no-frame=false&no-bg=false&column=4&title=Commits,Repositories,Stars,Followers&margin-w=10&margin-h=10&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&icon_color=F6D47C)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=oldie&no-frame=false&no-bg=false&column=3&title=PullRequest,Issues,MultiLanguage&margin-w=10&margin-h=10&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&icon_color=F6D47C)
 
 </div>
 
