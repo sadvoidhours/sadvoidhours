@@ -21,8 +21,7 @@
 <td>
 
 ### 👤 **void**
-**Pronouns:** they/them  
-**Location:** 🍮 Purin Paradise  
+**Pronouns:** He/Him
 
 **💖 Favorite Things:**  
 `coding` · `pudding` · `naps` · `music` · `cats`
