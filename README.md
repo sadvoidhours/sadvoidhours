@@ -2,7 +2,7 @@
 
 # 🍮 Hello! I'm void! 🍮
 
-<img src="https://i.pinimg.com/originals/85/71/46/857146aa0d6ff9f01a63a88a742ad9d8.gif" width="300" alt="Pompompurin">
+<img src="https://cdn.shopify.com/s/files/1/0683/0194/7201/files/tumblr_pps1snOKjM1vff7xg_400_480x480.gif?v=1711330049" width="300" alt="Pompompurin">
 
 ### *"Let's have a purin-tastic day!"* 🐶✨
 
@@ -16,13 +16,13 @@
 
 ```typescript
 const pompompurin = {
-    name: "Your Name",
+    name: "void",
     pronouns: "they/them",
     location: "Purin Paradise 🍮",
-    favoriteThings: ["coding", "pudding", "naps", "friends"],
+    favoriteThings: ["coding", "pudding", "naps", "music", "cats"],
     currentlyLearning: ["React", "TypeScript", "Cloud Technologies"],
     funFact: "I code better with a purin snack nearby! 🍮",
-    hobbies: ["☁️ Daydreaming", "🎨 Creating", "📚 Learning", "🎵 Listening to music"]
+    hobbies: ["☁️ Daydreaming", "🎨 Creating", "📚 Learning", "🎵 Vibing to music"]
 };
 ```
 
@@ -61,8 +61,6 @@ const pompompurin = {
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -106,12 +104,12 @@ const pompompurin = {
 
 <div align="center">
 
-<a href="https://github.com/sadvoidhours/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C" alt="Project 1" />
+<a href="https://github.com/sadvoidhours/SIGCS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=SIGCS&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C" alt="Project 1" />
 </a>
 
-<a href="https://github.com/sadvoidhours/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C" alt="Project 2" />
+<a href="https://github.com/sadvoidhours/ITE-4-FINALS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=ITE-4-FINALS&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C" alt="Project 2" />
 </a>
 
 </div>
@@ -142,12 +140,10 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-al-rayn-bartolome-704a06395/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markalraynbartolome@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sadvoidhours)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadvoidhours)
 
 </div>
 
@@ -179,21 +175,13 @@ graph LR
 
 ---
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-YOUR_VERCEL_DOMAIN.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
 ---
 
 ## 📈 Visitor Count
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sadvoidhours/count.svg)
 
 ### Thanks for stopping by! Have a purin-tastic day! 🍮✨
 
