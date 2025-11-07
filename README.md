@@ -1,14 +1,18 @@
 <div align="center">
 
-# 👋 Hello! I'm void
+# � Hello! I'm AJ (gonzagaav) �
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Building+Innovative+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="200" alt="Hello Kitty">
+
+### *"Let's code with kawaii vibes!"* �✨
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+pink+paradise!+%F0%9F%8C%B8;Coding+with+Hello+Kitty+power!+%F0%9F%8E%80;Let's+create+something+kawaii!+%F0%9F%92%96)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## � About Me
+## 🎀 About Me
 
 <div align="center">
 
@@ -16,20 +20,21 @@
 <tr>
 <td>
 
-### �‍💻 **void**
-**Pronouns:** He/Him
+### 👤 **AJ (gonzagaav)**
+**Status:** 🌸 New GitHub Explorer  
+**Location:** � Kawaii Code Corner  
 
-**� Interests:**  
-`Software Development` · `Cloud Computing` · `UI/UX` · `Music` · `Cats`
+**💖 Favorite Things:**  
+`coding` · `pink aesthetics` · `learning` · `Hello Kitty` · `creativity`
 
-**🌱 Currently Learning:**  
-`React` · `TypeScript` · `Cloud Technologies`
+**🌱 Currently:**  
+`Starting my GitHub journey` · `Building new skills` · `Exploring possibilities`
 
-**⚡ Quick Facts:**  
-• Problem solver with a passion for clean code  
-• Always exploring new technologies  
-• Coffee enthusiast ☕  
-• Cat lover 🐱
+**✨ Fun Fact:**  
+*Every line of code is cuter with a Hello Kitty theme!* �
+
+**🎨 Vibes:**  
+💕 Kawaii Coding · � Creative Learning · � Making Magic · ✨ Growing Daily
 
 </td>
 </tr>
@@ -39,39 +44,31 @@
 
 <div align="center">
 
-### � What I'm Up To
+### 🌟 My Journey
 
-🔭 Building innovative web applications  
-🌱 Expanding my technical skillset  
-👯 Open to collaboration on interesting projects  
-💬 Let's talk tech, code, and ideas  
-⚡ Driven by curiosity and creativity
+🎀 Just started on GitHub  
+💖 Learning and growing every day  
+✨ Building something amazing soon  
+💬 Open to learning and collaboration!  
+⚡ Fueled by creativity and kawaii energy 🎀💖
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Interests
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌸 What I'm Exploring
+![Learning](https://img.shields.io/badge/-Learning-FF69B4?style=for-the-badge&logo=starship&logoColor=white)
+![Coding](https://img.shields.io/badge/-Coding-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Creating](https://img.shields.io/badge/-Creating-FFC0CB?style=for-the-badge&logo=sparkles&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🎀 Tools I Love
+![Git](https://img.shields.io/badge/-Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-FFC0CB?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -81,43 +78,43 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&theme=tokyonight&title_color=6366F1&icon_color=A78BFA&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1&hide_border=false" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gonzagaav&show_icons=true&theme=graywhite&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=FFF0F5&border_color=FF69B4&hide_border=false" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=compact&theme=tokyonight&title_color=6366F1&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1&hide_border=false" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadvoidhours&theme=react-dark&bg_color=1E1B4B&color=C4B5FD&line=6366F1&point=A78BFA&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzagaav&layout=compact&theme=graywhite&title_color=FF69B4&text_color=FF1493&bg_color=FFF0F5&border_color=FF69B4&hide_border=false" alt="Top Languages" height="170"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=discord&no-frame=false&no-bg=false&column=4&title=Commits,Repositories,Stars,Followers&margin-w=10&margin-h=10)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=discord&no-frame=false&no-bg=false&column=3&title=PullRequest,Issues,MultiLanguage&margin-w=10&margin-h=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=gonzagaav&theme=flat&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10&title_color=FF69B4&text_color=FF1493&bg_color=FFF0F5&icon_color=FFB6C1)
 
 </div>
 
 ---
 
-## � Featured Projects
+## 🌸 Welcome to My Journey!
 
 <div align="center">
 
-<a href="https://github.com/sadvoidhours/SIGCS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=SIGCS&theme=tokyonight&title_color=6366F1&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1" alt="SIGCS" />
-</a>
+> 💖 *"This is just the beginning of my coding adventure!"*  
+> 🎀 *"Every day is a new opportunity to learn and create!"*  
+> ✨ *"Stay kawaii, stay creative!"*
 
-<a href="https://github.com/sadvoidhours/ITE-4-FINALS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=ITE-4-FINALS&theme=tokyonight&title_color=6366F1&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1" alt="ITE-4-FINALS" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=2&section=header&text=&fontSize=0" width="100%"/>
+
+### 🌸 Quick Facts About Hello Kitty 🌸
+
+| 🎀 Character | 📝 Details |
+|-------------|-----------|
+| **Full Name** | Kitty White |
+| **Birthday** | November 1st |
+| **Best Friend** | Dear Daniel |
+| **Favorite Food** | Apple pie made by Mama 🍎 |
+| **Hobby** | Baking cookies, making friends |
+| **Dream** | To be a poet or pianist |
 
 </div>
 
@@ -129,40 +126,36 @@
 
 ```mermaid
 graph LR
-    A[💻 Developer Goals] --> B[Master Full Stack]
-    A --> C[Contribute to Open Source]
-    A --> D[Build Scalable Applications]
-    A --> E[Learn Emerging Technologies]
-    B --> F[🚀 Success!]
+    A[� Kawaii Goals] --> B[Learn to Code]
+    A --> C[Build First Project]
+    A --> D[Make GitHub Friends]
+    A --> E[Explore New Tech]
+    B --> F[✨ Hello Success!]
     C --> F
     D --> F
     E --> F
-    style A fill:#6366F1,stroke:#4F46E5,color:#fff
-    style F fill:#A78BFA,stroke:#8B5CF6,color:#fff
 ```
 
 </div>
 
 ---
 
-## Connect with Me
+## 💌 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-al-rayn-bartolome-704a06395/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markalraynbartolome@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sadvoidhours)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadvoidhours)
+[![GitHub](https://img.shields.io/badge/GitHub-gonzagaav-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzagaav)
+[![Profile](https://img.shields.io/badge/Profile-AJ-FFB6C1?style=for-the-badge&logoColor=white)](https://github.com/gonzagaav)
 
 </div>
 
 ---
 
-## 🎨 Random Dev Quote
+## 🎨 Daily Inspiration
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote_bg_color=FFF0F5&quote_border_color=FF69B4&author_color=FF1493&quote_color=FF1493)
 
 </div>
 
@@ -172,11 +165,19 @@ graph LR
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=gonzagaav&color=FF69B4&style=for-the-badge&label=KAWAII+VISITORS)
 
-### Thanks for visiting! Let's build something amazing together! 🚀
+### Thanks for stopping by! Have a wonderful day! �✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%"/>
 
 </div>
 
+---
+
+<div align="center">
+
+### � "You can never have too many friends!" 💖
+### 🎀 Made with love and Hello Kitty magic ✨
+
+</div>
