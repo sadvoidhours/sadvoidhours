@@ -1,18 +1,14 @@
 <div align="center">
 
-# 🍮 Hello! I'm void! 🍮
+# 👋 Hello! I'm void
 
-<img src="https://cdn.shopify.com/s/files/1/0683/0194/7201/files/tumblr_pps1snOKjM1vff7xg_400_480x480.gif?v=1711330049" width="300" alt="Pompompurin">
-
-### *"Let's have a purin-tastic day!"* 🐶✨
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=28&duration=3000&pause=1000&color=F6D47C&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+cozy+corner!+%F0%9F%8C%BC;Coding+with+purin+power!+%F0%9F%8D%AE;Let's+create+something+sweet!+%F0%9F%8D%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Building+Innovative+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🐾 About Me
+## � About Me
 
 <div align="center">
 
@@ -20,20 +16,20 @@
 <tr>
 <td>
 
-### 👤 **void**
+### �‍💻 **void**
 **Pronouns:** He/Him
 
-**💖 Favorite Things:**  
-`coding` · `pudding` · `naps` · `music` · `cats`
+**� Interests:**  
+`Software Development` · `Cloud Computing` · `UI/UX` · `Music` · `Cats`
 
 **🌱 Currently Learning:**  
 `React` · `TypeScript` · `Cloud Technologies`
 
-**✨ Fun Fact:**  
-*I code better with a purin snack nearby!* 🍮
-
-**🎨 Hobbies:**  
-☁️ Daydreaming · 🎨 Creating · 📚 Learning · 🎵 Vibing to music
+**⚡ Quick Facts:**  
+• Problem solver with a passion for clean code  
+• Always exploring new technologies  
+• Coffee enthusiast ☕  
+• Cat lover 🐱
 
 </td>
 </tr>
@@ -43,13 +39,13 @@
 
 <div align="center">
 
-### 🌟 I'm currently...
+### � What I'm Up To
 
-🔭 Working on exciting projects  
-🌱 Growing my skills every day  
-👯 Looking to collaborate on fun ideas  
-💬 Happy to chat about tech and purin!  
-⚡ Fueled by coffee and creativity ☕✨
+🔭 Building innovative web applications  
+🌱 Expanding my technical skillset  
+👯 Open to collaboration on interesting projects  
+💬 Let's talk tech, code, and ideas  
+⚡ Driven by curiosity and creativity
 
 </div>
 
@@ -85,15 +81,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&theme=buefy&title_color=F6D47C&icon_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C&hide_border=false" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&theme=tokyonight&title_color=6366F1&icon_color=A78BFA&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1&hide_border=false" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=compact&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C&hide_border=false" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=compact&theme=tokyonight&title_color=6366F1&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1&hide_border=false" alt="Top Languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadvoidhours&theme=vue&bg_color=FFF8E7&color=8B7355&line=F6D47C&point=F6D47C&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadvoidhours&theme=react-dark&bg_color=1E1B4B&color=C4B5FD&line=6366F1&point=A78BFA&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -103,24 +99,24 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=oldie&no-frame=false&no-bg=false&column=4&title=Commits,Repositories,Stars,Followers&margin-w=10&margin-h=10&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&icon_color=F6D47C)
+![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=discord&no-frame=false&no-bg=false&column=4&title=Commits,Repositories,Stars,Followers&margin-w=10&margin-h=10)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=oldie&no-frame=false&no-bg=false&column=3&title=PullRequest,Issues,MultiLanguage&margin-w=10&margin-h=10&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&icon_color=F6D47C)
+![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=discord&no-frame=false&no-bg=false&column=3&title=PullRequest,Issues,MultiLanguage&margin-w=10&margin-h=10)
 
 </div>
 
 ---
 
-## 🌸 Featured Projects
+## � Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/sadvoidhours/SIGCS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=SIGCS&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C" alt="Project 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=SIGCS&theme=tokyonight&title_color=6366F1&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1" alt="SIGCS" />
 </a>
 
 <a href="https://github.com/sadvoidhours/ITE-4-FINALS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=ITE-4-FINALS&theme=buefy&title_color=F6D47C&text_color=8B7355&bg_color=FFF8E7&border_color=F6D47C" alt="Project 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=ITE-4-FINALS&theme=tokyonight&title_color=6366F1&text_color=C4B5FD&bg_color=1E1B4B&border_color=6366F1" alt="ITE-4-FINALS" />
 </a>
 
 </div>
@@ -133,21 +129,23 @@
 
 ```mermaid
 graph LR
-    A[🍮 Purin Goals] --> B[Master Full Stack]
+    A[💻 Developer Goals] --> B[Master Full Stack]
     A --> C[Contribute to Open Source]
-    A --> D[Build Cool Projects]
-    A --> E[Learn New Technologies]
-    B --> F[✨ Sweet Success!]
+    A --> D[Build Scalable Applications]
+    A --> E[Learn Emerging Technologies]
+    B --> F[🚀 Success!]
     C --> F
     D --> F
     E --> F
+    style A fill:#6366F1,stroke:#4F46E5,color:#fff
+    style F fill:#A78BFA,stroke:#8B5CF6,color:#fff
 ```
 
 </div>
 
 ---
 
-## 💌 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -164,27 +162,9 @@ graph LR
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote_bg_color=FFF8E7&quote_border_color=F6D47C&author_color=8B7355&quote_color=8B7355)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
-
----
-
-## 🍮 Fun Facts About Pompompurin
-
-<div align="center">
-
-| 🐶 Character | 📝 Details |
-|-------------|-----------|
-| **Birthday** | April 16th |
-| **Best Friends** | Muffin (hamster), Scone (mouse), Bagel (bird) |
-| **Favorite Food** | Pudding (of course!) 🍮 |
-| **Hobby** | Collecting shoes and taking naps |
-| **Dream** | To get even bigger! |
-
-</div>
-
----
 
 ---
 
@@ -192,18 +172,11 @@ graph LR
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&color=F6D47C&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-### Thanks for stopping by! Have a purin-tastic day! 🍮✨
+### Thanks for visiting! Let's build something amazing together! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6D47C&height=100&section=footer" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💛 "A little pudding makes everything better!" 💛
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 </div>
+
