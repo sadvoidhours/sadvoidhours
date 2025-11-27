@@ -1,10 +1,23 @@
 <div align="center">
 
-# 👋 Hello! I'm void
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001d3d,50:003566,100:0077b6&height=200&section=header&text=SADVOIDHOURS&fontSize=80&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUxOWY3Y2FvbGY4Y2oyZmgyNmw1czg2eGlzcWR2cjNwYXdvbDE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X4eOmwrQHkiIemT6jj/giphy.gif" width="200">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Building+Innovative+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
+<!-- Added animated tech icons row -->
+<br/>
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,python,tailwind&theme=dark&perline=6" alt="Tech Stack" />
+<br/><br/>
+
+<!-- Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/sadvoidhours?style=for-the-badge&color=003566&labelColor=001d3d&logo=github&label=Followers)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/sadvoidhours?style=for-the-badge&color=00b4d8&labelColor=001d3d&logo=github&label=Stars)
+
 
 </div>
 
@@ -53,95 +66,96 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+
+<br/>
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Added animated tech stack with skill icons -->
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sass&theme=dark" alt="Languages" />
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<br/>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Languages**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma&theme=dark" alt="Frameworks" />
+
+<br/>
+
+**Frameworks & Libraries**
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,figma&theme=dark" alt="Tools" />
+
+<br/>
+
+**Tools & Platforms**
+
+<br/><br/>
+
+<!-- Added animated contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=212830&border_color=FFFFFF&hide_border=false" alt="GitHub Stats" height="170"/>
+<!-- Added 3D contribution calendar -->
+<img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&title_color=00d4ff&icon_color=00b4d8&text_color=90e0ef&bg_color=0d1117&border_color=003566&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadvoidhours&theme=transparent&hide_border=false&border_radius=12&background=0d1117&stroke=003566&ring=00d4ff&fire=00b4d8&currStreakLabel=00d4ff&sideLabels=90e0ef&currStreakNum=00d4ff&dates=4a5568&sideNums=00b4d8&border=003566" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=compact&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=212830&border_color=FFFFFF&hide_border=false" alt="Top Languages" height="170"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=donut-vertical&title_color=00d4ff&text_color=90e0ef&bg_color=0d1117&border_color=003566&hide_border=false&border_radius=12&langs_count=8" alt="Top Languages" width="30%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadvoidhours&bg_color=0d1117&color=00d4ff&line=0077b6&point=00d4ff&area=true&area_color=003566&hide_border=false&custom_title=Contribution%20Graph&title_color=00d4ff&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<div align="center">
+<br/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadvoidhours&theme=react-dark&bg_color=212830&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+<br/>
 
----
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Achievements
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=discord&no-frame=false&no-bg=false&column=4&title=Commits,Repositories,Stars,Followers&margin-w=10&margin-h=10)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=discord&no-frame=false&no-bg=false&column=3&title=PullRequest,Issues,MultiLanguage&margin-w=10&margin-h=10)
-
-</div>
-
----
-
-## 🌟 Featured Projects
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/sadvoidhours/SIGCS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=SIGCS&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=212830&border_color=FFFFFF" alt="SIGCS" />
-</a>
+![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers)
 
-<a href="https://github.com/sadvoidhours/ITE-4-FINALS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadvoidhours&repo=ITE-4-FINALS&theme=dark&title_color=FFFFFF&text_color=FFFFFF&bg_color=212830&border_color=FFFFFF" alt="ITE-4-FINALS" />
-</a>
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[💻 Developer Goals] --> B[Master Full Stack]
-    A --> C[Contribute to Open Source]
-    A --> D[Build Scalable Applications]
-    A --> E[Learn Emerging Technologies]
-    B --> F[🚀 Success!]
-    C --> F
-    D --> F
-    E --> F
-    style A fill:#212830,stroke:#FFFFFF,color:#fff
-    style F fill:#212830,stroke:#FFFFFF,color:#fff
-```
+![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&title=PullRequest,Issues,MultiLanguage)
 
 </div>
 
@@ -178,7 +192,10 @@ graph LR
 
 ### Thanks for visiting! Let's build something amazing together! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<br/>
+
+<!-- Updated footer with different animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:003566,100:001d3d&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
