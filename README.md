@@ -6,18 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
-<!-- Added animated tech icons row -->
 <br/>
 <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,python,tailwind&theme=dark&perline=6" alt="Tech Stack" />
 <br/><br/>
-
-<!-- Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&style=for-the-badge&color=0077b6&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/sadvoidhours?style=for-the-badge&color=003566&labelColor=001d3d&logo=github&label=Followers)
-&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/sadvoidhours?style=for-the-badge&color=00b4d8&labelColor=001d3d&logo=github&label=Stars)
-
 
 </div>
 
@@ -34,16 +25,16 @@
 ### 👨‍💻 **void**
 **Pronouns:** He/Him
 
-**🎯 Interests:**  
+**🎯 Interests:**  
 `Software Development` · `Cloud Computing` · `UI/UX` · `Music` · `Cats`
 
-**🌱 Currently Learning:**  
+**🌱 Currently Learning:**  
 `React` · `TypeScript` · `Cloud Technologies`
 
-**⚡ Quick Facts:**  
-• Problem solver with a passion for clean code  
-• Always exploring new technologies  
-• Coffee enthusiast ☕  
+**⚡ Quick Facts:**  
+• Problem solver with a passion for clean code  
+• Always exploring new technologies  
+• Coffee enthusiast ☕  
 • Cat lover 🐱
 
 </td>
@@ -56,17 +47,16 @@
 
 ### 🚀 What I'm Up To
 
-🔭 Building innovative web applications  
-🌱 Expanding my technical skillset  
-👯 Open to collaboration on interesting projects  
-💬 Let's talk tech, code, and ideas  
+🔭 Building innovative web applications  
+🌱 Expanding my technical skillset  
+👯 Open to collaboration on interesting projects  
+💬 Let's talk tech, code, and ideas  
 ⚡ Driven by curiosity and creativity
 
 </div>
 
 ---
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -77,7 +67,6 @@
 
 <div align="center">
 
-<!-- Added animated tech stack with skill icons -->
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sass&theme=dark" alt="Languages" />
 
 <br/>
@@ -102,64 +91,13 @@
 
 <br/><br/>
 
-<!-- Added animated contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<br/>
-
-<div align="center">
-
-<!-- Added 3D contribution calendar -->
-<img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&title_color=00d4ff&icon_color=00b4d8&text_color=90e0ef&bg_color=0d1117&border_color=003566&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadvoidhours&theme=transparent&hide_border=false&border_radius=12&background=0d1117&stroke=003566&ring=00d4ff&fire=00b4d8&currStreakLabel=00d4ff&sideLabels=90e0ef&currStreakNum=00d4ff&dates=4a5568&sideNums=00b4d8&border=003566" alt="GitHub Streak" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadvoidhours&layout=donut-vertical&title_color=00d4ff&text_color=90e0ef&bg_color=0d1117&border_color=003566&hide_border=false&border_radius=12&langs_count=8" alt="Top Languages" width="30%"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadvoidhours&bg_color=0d1117&color=00d4ff&line=0077b6&point=00d4ff&area=true&area_color=003566&hide_border=false&custom_title=Contribution%20Graph&title_color=00d4ff&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Achievements
-
-<br/>
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sadvoidhours&theme=algolia&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15&title=PullRequest,Issues,MultiLanguage)
-
-</div>
-
----
 
 ## 📫 Connect with Me
 
@@ -184,18 +122,12 @@
 
 ---
 
-## 📈 Profile Views
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sadvoidhours&color=212830&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### Thanks for visiting! Let's build something amazing together! 🚀
 
 <br/>
 
-<!-- Updated footer with different animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:003566,100:001d3d&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
