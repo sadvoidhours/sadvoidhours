@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 About Me
+##  About Me
 
 <div align="center">
 
@@ -22,20 +22,20 @@
 <tr>
 <td>
 
-### 👨‍💻 **void**
+### **void**
 **Pronouns:** He/Him
 
-**🎯 Interests:**  
+** Interests:**  
 `Software Development` · `Cloud Computing` · `UI/UX` · `Music` · `Cats`
 
-**🌱 Currently Learning:**  
+** Currently Learning:**  
 `React` · `TypeScript` · `Cloud Technologies`
 
-**⚡ Quick Facts:**  
+** Quick Facts:**  
 • Problem solver with a passion for clean code  
 • Always exploring new technologies  
-• Coffee enthusiast ☕  
-• Cat lover 🐱
+• Coffee enthusiast 
+• Cat lover 
 
 </td>
 </tr>
@@ -45,13 +45,13 @@
 
 <div align="center">
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
-🔭 Building innovative web applications  
-🌱 Expanding my technical skillset  
-👯 Open to collaboration on interesting projects  
-💬 Let's talk tech, code, and ideas  
-⚡ Driven by curiosity and creativity
+ Building innovative web applications  
+ Expanding my technical skillset  
+ Open to collaboration on interesting projects  
+ Let's talk tech, code, and ideas  
+ Driven by curiosity and creativity
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sass&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="Languages" />
 
 <br/>
 
@@ -75,7 +75,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,prisma&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
 
 <br/>
 
@@ -83,7 +83,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 
 <br/>
 
@@ -99,7 +99,7 @@
 
 <br/>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -107,16 +107,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markalraynbartolome@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sadvoidhours)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadvoidhours)
-
-</div>
-
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
