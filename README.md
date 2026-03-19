@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001d3d,50:003566,100:0077b6&height=200&section=header&text=SADVOIDHOURS&fontSize=80&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&color=00D4FF&center=true&vCenter=true&lines=Coding;Tech+Support)](https://git.io/typing-svg)
 <br/>
 
 *Software Development • Cloud Computing • UI/UX • Music • Cats*
