@@ -2,104 +2,58 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001d3d,50:003566,100:0077b6&height=200&section=header&text=SADVOIDHOURS&fontSize=80&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://ftpmirror.infania.net/sites/www.heathersanimations.net/Fish1/shark.gif" width="200">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 <br/>
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,python,tailwind&theme=dark&perline=6" alt="Tech Stack" />
-<br/><br/>
+
+*Software Development • Cloud Computing • UI/UX • Music • Cats*
 
 </div>
 
 ---
 
-##  About Me
+### 👨🏻‍💻 About Me
+
+I'm a problem solver with a passion for clean code, currently studying Information Technology. When I'm not exploring new cloud technologies or building full-stack applications, I'm probably drinking coffee, hanging out with cats, or listening to Hozier.
+
+- 🔭 **Currently working on:** Innovative web applications like **Lifora** (a gamified AI health platform) and collaborating on **SIGCS**.
+- 🌱 **Currently learning:** Advanced React, TypeScript, and Cloud Technologies.
+- 💬 **Ask me about:** Tech, clean architecture, and creative ideas!
+- 📫 **Pronouns:** He/Him
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+**Languages** <br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Languages" />
 
-### **void**
-**Pronouns:** He/Him
+<br/><br/>
 
-** Interests:**  
-`Software Development` · `Cloud Computing` · `UI/UX` · `Music` · `Cats`
+**Frameworks & Databases** <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" alt="Frameworks" />
 
-** Currently Learning:**  
-`React` · `TypeScript` · `Cloud Technologies`
+<br/><br/>
 
-** Quick Facts:**  
-• Problem solver with a passion for clean code  
-• Always exploring new technologies  
-• Coffee enthusiast 
-• Cat lover 
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### What I'm Up To
-
- Building innovative web applications  
- Expanding my technical skillset  
- Open to collaboration on interesting projects  
- Let's talk tech, code, and ideas  
- Driven by curiosity and creativity
+**Tools & Platforms** <br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
-
-<br/>
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark" alt="Languages" />
-
-<br/>
-
-**Languages**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
-
-<br/>
-
-**Frameworks & Libraries**
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
-
-<br/>
-
-**Tools & Platforms**
-
-<br/><br/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sadvoidhours&show_icons=true&theme=tokyonight&hide_border=true&bg_color=001d3d" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadvoidhours&theme=tokyonight&hide_border=true&background=001d3d" width="48%" />
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## Connect with Me
+### 📬 Connect with Me
 
 <div align="center">
 
@@ -108,16 +62,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sadvoidhours)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadvoidhours)
 
+<br/><br/>
+*Let's build something amazing together! 🚀*
 </div>
 
----
-
-<div align="center">
-
-### Thanks for visiting! Let's build something amazing together! 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:003566,100:001d3d&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:003566,100:001d3d&height=100&section=footer&animation=twinkling" width="100%"/>
